@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Jiwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwe&show_icons=true&theme=radical))](https://github.com/jiwe/github-readme-stats)
+[![Jiwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwe&show_icons=true&theme=radical)](https://github.com/jiwe/github-readme-stats)
 
 <!--
 **jiwe/jiwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
